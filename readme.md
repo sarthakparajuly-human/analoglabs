@@ -100,9 +100,3 @@ AnalogLabs/
 ## 📄 License
 
 This project is licensed under the **MIT License** - feel free to use, modify, and share!
-
----
-
-<p align="center">
-  Made with ❤️ for the analog aesthetic
-</p>
